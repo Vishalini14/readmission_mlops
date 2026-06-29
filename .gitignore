@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+synthea/
+mlruns/
+ml/serving_model/
+*.parquet
+.DS_Store
+dbt_readmission/target/
+dbt_readmission/dbt_packages/
+dbt_readmission/logs/
+*.tfstate*
+.terraform/

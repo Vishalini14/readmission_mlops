@@ -1,0 +1,14 @@
+boto3
+requests
+pandas
+pyarrow
+snowflake-connector-python[pandas]
+scikit-learn
+xgboost
+mlflow
+shap
+evidently
+streamlit
+python-dotenv
+dbt-snowflake
+apache-airflow-providers-airbyte
